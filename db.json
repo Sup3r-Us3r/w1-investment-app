@@ -1,0 +1,576 @@
+{
+  "data": [
+    {
+      "id": "2198",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "CDB Manual",
+        "broker": "C6 Bank",
+        "brokerCnpj": null,
+        "liquidity": 20,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "post",
+        "postFixedTax": "CDI",
+        "ticket": "",
+        "quantity": null,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "CDB",
+          "rent_type": "fixed"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 81.000,00",
+        "balanceAmount": "R$ 0,00",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "1.0%",
+        "postFixedTaxPercentage": "1.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 81.000,00"
+        },
+        "dueDate": {
+          "original": "2024-11-16",
+          "formatted": "16/11/2024"
+        },
+        "lastUpdate": "16/11/2024 às 00:00:39",
+        "readOnly": false
+      }
+    },
+    {
+      "id": "2202",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "BLAU3 - BLAU FARMACÊUTICA S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "BLAU3",
+        "quantity": 740.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 11.040,80",
+        "balanceAmount": "R$ 11.040,80",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 11.040,80"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2203",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "BPAN4 - BCO PAN S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "BPAN4",
+        "quantity": 1400.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 10.696,00",
+        "balanceAmount": "R$ 10.696,00",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 10.696,00"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2204",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "CAML3 - CAMIL ALIMENTOS S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "CAML3",
+        "quantity": 1380.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 10.667,40",
+        "balanceAmount": "R$ 10.667,40",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 10.667,40"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2205",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "DIRR3 - DIRECIONAL ENGENHARIA S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "DIRR3",
+        "quantity": 395.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 11.850,00",
+        "balanceAmount": "R$ 11.850,00",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 11.850,00"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2206",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "DMVF3 - D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "DMVF3",
+        "quantity": 1640.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 10.889,60",
+        "balanceAmount": "R$ 10.889,60",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 10.889,60"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2207",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "FIQE3 - UNIFIQUE TELECOMUNICAÇÕES S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "FIQE3",
+        "quantity": 3300.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 12.540,00",
+        "balanceAmount": "R$ 12.540,00",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 12.540,00"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2208",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "JSLG3 - JSL S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "JSLG3",
+        "quantity": 1370.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 9.562,60",
+        "balanceAmount": "R$ 9.562,60",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 9.562,60"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2209",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "PLPL3 - PLANO \u0026 PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "PLPL3",
+        "quantity": 970.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 12.542,10",
+        "balanceAmount": "R$ 12.542,10",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 12.542,10"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2210",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "RAPT4 - RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "RAPT4",
+        "quantity": 1100.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 11.583,00",
+        "balanceAmount": "R$ 11.583,00",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 11.583,00"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:03",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2229",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "IVVB11 - ISHARES S\u0026P 500 FDO INV COTAS FDO INDICE",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "IVVB11",
+        "quantity": 2.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "ETF",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 769,92",
+        "balanceAmount": "R$ 769,92",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 769,92"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:04",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2230",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "BRCO11 - BRESCO LOGÍSTICA - FDO INV IMOB",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "BRCO11",
+        "quantity": 36.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Fundo imobiliário (FII)",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 3.734,28",
+        "balanceAmount": "R$ 3.734,28",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 3.734,28"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:04",
+        "readOnly": true
+      }
+    },
+    {
+      "id": "2231",
+      "type": "listInvestments",
+      "attributes": {
+        "name": "GARE11 - FUND. DE INVEST. IMOBILIÁRIO GUARDIAN REAL ESTATE",
+        "broker": "Não informado",
+        "brokerCnpj": null,
+        "liquidity": 2,
+        "type": "Client::Concepts::Investments::Contracted",
+        "profitabilityType": "not_informed",
+        "postFixedTax": "0",
+        "ticket": "GARE11",
+        "quantity": 430.0,
+        "socialSecurityTaxRegime": null,
+        "socialSecurityProposalNumber": null,
+        "socialSecurityProcessNumber": null,
+        "modality": {
+          "name": "Ação",
+          "rent_type": "other"
+        },
+        "contributedAmount": "R$ 0,00",
+        "currentAmount": "R$ 3.891,50",
+        "balanceAmount": "R$ 3.891,50",
+        "profitAmount": "R$ 0,00",
+        "profitabilityRatesAnnual": "0.0%",
+        "profitabilityAccumulatedRate": "-",
+        "profitabilityCdiRate": "-",
+        "postFixedTaxPercentage": "0.0%",
+        "lastMonthRate": null,
+        "lastTwelveMonthsRate": null,
+        "annualRate": null,
+        "objectivesAssociated": [],
+        "available": {
+          "percentage": "100%",
+          "amount": "R$ 3.891,50"
+        },
+        "dueDate": {
+          "original": "-",
+          "formatted": "-"
+        },
+        "lastUpdate": "16/11/2024 às 00:32:04",
+        "readOnly": true
+      }
+    }
+  ]
+}
